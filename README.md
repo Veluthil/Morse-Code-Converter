@@ -7,6 +7,6 @@ First, you will be asked to choose a mode by typing:
 - 'T' to convert text to Morse Code.
 
 Rules and additional options:
-- '  ' (double space) indicates spaces between words in Morse Code, therefore
+- Double space indicates spaces between words in Morse Code, therefore
 when converting Morse Code to a string you should use double space as a break between single words.
 - To exit Morse Code Converter type '#'.
